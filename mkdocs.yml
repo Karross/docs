@@ -1,0 +1,6 @@
+site_name: Karross documentation
+nav:
+  - Installation: index.md
+  - Roadmap: roadmap.md
+theme:
+  name: readthedocs
